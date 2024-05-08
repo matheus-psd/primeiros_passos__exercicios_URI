@@ -1,0 +1,14 @@
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\obj\Debug\net8.0\Uri1036 - Fórmula de Bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\obj\Debug\net8.0\Uri1036 - Fórmula de Bhaskara.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\obj\Debug\net8.0\Uri1036 - Fórmula de Bhaskara.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\obj\Debug\net8.0\Uri1036 - Fórmula de Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\bin\Debug\net8.0\Uri1036 - Fórmula de Bhaskara.exe
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\bin\Debug\net8.0\Uri1036 - Fórmula de Bhaskara.deps.json
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\bin\Debug\net8.0\Uri1036 - Fórmula de Bhaskara.runtimeconfig.json
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\bin\Debug\net8.0\Uri1036 - Fórmula de Bhaskara.dll
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\bin\Debug\net8.0\Uri1036 - Fórmula de Bhaskara.pdb
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\obj\Debug\net8.0\Uri1036 - Fórmula de Bhaskara.dll
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\obj\Debug\net8.0\refint\Uri1036 - Fórmula de Bhaskara.dll
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\obj\Debug\net8.0\Uri1036 - Fórmula de Bhaskara.pdb
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\obj\Debug\net8.0\Uri1036 - Fórmula de Bhaskara.genruntimeconfig.cache
+C:\Users\Matheus\Documents\Projetos\Uri1036 - Fórmula de Bhaskara\Uri1036 - Fórmula de Bhaskara\obj\Debug\net8.0\ref\Uri1036 - Fórmula de Bhaskara.dll

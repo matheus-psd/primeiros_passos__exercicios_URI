@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Uri1036 - Fórmula de Bhaskara/1.0.0": {
+        "runtime": {
+          "Uri1036 - Fórmula de Bhaskara.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uri1036 - Fórmula de Bhaskara/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
