@@ -1,0 +1,14 @@
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\bin\Debug\net8.0\Uri1013.exe
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\bin\Debug\net8.0\Uri1013.deps.json
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\bin\Debug\net8.0\Uri1013.runtimeconfig.json
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\bin\Debug\net8.0\Uri1013.dll
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\bin\Debug\net8.0\Uri1013.pdb
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\obj\Debug\net8.0\Uri1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\obj\Debug\net8.0\Uri1013.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\obj\Debug\net8.0\Uri1013.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\obj\Debug\net8.0\Uri1013.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\obj\Debug\net8.0\Uri1013.dll
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\obj\Debug\net8.0\refint\Uri1013.dll
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\obj\Debug\net8.0\Uri1013.pdb
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\obj\Debug\net8.0\Uri1013.genruntimeconfig.cache
+C:\Users\Matheus\Documents\Projetos\Uri1013\Uri1013\obj\Debug\net8.0\ref\Uri1013.dll
