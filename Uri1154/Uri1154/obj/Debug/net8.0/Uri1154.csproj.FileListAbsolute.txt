@@ -1,0 +1,14 @@
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\bin\Debug\net8.0\Uri1154.exe
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\bin\Debug\net8.0\Uri1154.deps.json
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\bin\Debug\net8.0\Uri1154.runtimeconfig.json
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\bin\Debug\net8.0\Uri1154.dll
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\bin\Debug\net8.0\Uri1154.pdb
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\obj\Debug\net8.0\Uri1154.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\obj\Debug\net8.0\Uri1154.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\obj\Debug\net8.0\Uri1154.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\obj\Debug\net8.0\Uri1154.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\obj\Debug\net8.0\Uri1154.dll
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\obj\Debug\net8.0\refint\Uri1154.dll
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\obj\Debug\net8.0\Uri1154.pdb
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\obj\Debug\net8.0\Uri1154.genruntimeconfig.cache
+C:\Users\Matheus\Documents\Projetos\Uri1154\Uri1154\obj\Debug\net8.0\ref\Uri1154.dll
