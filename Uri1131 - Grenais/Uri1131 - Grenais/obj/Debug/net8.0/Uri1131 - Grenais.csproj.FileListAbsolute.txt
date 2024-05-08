@@ -1,0 +1,14 @@
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\bin\Debug\net8.0\Uri1131 - Grenais.exe
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\bin\Debug\net8.0\Uri1131 - Grenais.deps.json
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\bin\Debug\net8.0\Uri1131 - Grenais.runtimeconfig.json
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\bin\Debug\net8.0\Uri1131 - Grenais.dll
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\bin\Debug\net8.0\Uri1131 - Grenais.pdb
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\obj\Debug\net8.0\Uri1131 - Grenais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\obj\Debug\net8.0\Uri1131 - Grenais.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\obj\Debug\net8.0\Uri1131 - Grenais.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\obj\Debug\net8.0\Uri1131 - Grenais.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\obj\Debug\net8.0\Uri1131 - Grenais.dll
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\obj\Debug\net8.0\refint\Uri1131 - Grenais.dll
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\obj\Debug\net8.0\Uri1131 - Grenais.pdb
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\obj\Debug\net8.0\Uri1131 - Grenais.genruntimeconfig.cache
+C:\Users\Matheus\Documents\Projetos\Uri1131 - Grenais\Uri1131 - Grenais\obj\Debug\net8.0\ref\Uri1131 - Grenais.dll
