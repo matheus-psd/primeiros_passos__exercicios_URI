@@ -1,0 +1,14 @@
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\obj\Debug\net8.0\Uri1021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\obj\Debug\net8.0\Uri1021.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\obj\Debug\net8.0\Uri1021.AssemblyInfo.cs
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\obj\Debug\net8.0\Uri1021.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\bin\Debug\net8.0\Uri1021.exe
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\bin\Debug\net8.0\Uri1021.deps.json
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\bin\Debug\net8.0\Uri1021.runtimeconfig.json
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\bin\Debug\net8.0\Uri1021.dll
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\bin\Debug\net8.0\Uri1021.pdb
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\obj\Debug\net8.0\Uri1021.dll
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\obj\Debug\net8.0\refint\Uri1021.dll
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\obj\Debug\net8.0\Uri1021.pdb
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\obj\Debug\net8.0\Uri1021.genruntimeconfig.cache
+C:\Users\Matheus\Documents\Projetos\Uri1021\Uri1021\obj\Debug\net8.0\ref\Uri1021.dll
